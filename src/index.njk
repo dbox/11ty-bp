@@ -3,10 +3,16 @@ layout: base.njk
 title: Welcome
 ---
 
-{%- from "macros.njk" import component -%}
+{# {%- from "macros.njk" import component -%}
 
 <div class="p-6">
     <div class="container">
         {{ component("headings/title", { content: "Title Component" }) }}
-    </div>
-</div>
+    </div> #}
+
+<h1>Welcome to {{ site.title }} dude</h1>
+
+<p>moar stuff</p>
+
+<a href="#">
+    <span>this is a link</span></a>

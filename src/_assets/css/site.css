@@ -1,11 +1,21 @@
-/* @import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities'; */
-
 @import './_base.css';
 @import './_utilities.css';
 
 
 body {
     border: 15px solid green;
+    font-family: system-ui;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    & span {
+        font-weight: bold;
+    }
 }
