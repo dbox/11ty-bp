@@ -23,3 +23,6 @@ Preview it all – site generation, functions, and edge logic.
 ```sh
 netlify dev
 ```
+
+### Tips
+ - Install [postcss language support for vscode](https://github.com/csstools/postcss-language)
