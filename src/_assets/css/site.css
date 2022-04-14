@@ -1,7 +1,6 @@
-/* @import './_base.css'; */
-@import './_utilities.css';
 @import './_reset.css';
 
+/* Write some css! */
 
 body {
     font-family: system-ui;
@@ -14,3 +13,4 @@ a {
         text-decoration: underline;
     }
 }
+
