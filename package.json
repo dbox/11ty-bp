@@ -4,7 +4,7 @@
   "description": "A starter project built with Eleventy, Webpack and PostCSS.",
   "private": true,
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^2.0.1",
     "@babel/core": "^7.14.3",
     "@babel/eslint-parser": "^7.14.3",
     "@babel/preset-env": "^7.14.2",

@@ -5,6 +5,7 @@
 
 body {
     font-family: system-ui;
+    border: 15px solid green;
 }
 
 a {
